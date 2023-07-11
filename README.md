@@ -1,4 +1,6 @@
-Resolvendo um problema relacionado a movimentações bancárias utilizando a linguagem SQL
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/analise_de_vendas_de_uma_rede_de_supermercados/main/dashboard_topo.png)
+
+# Checando movimentações bancárias utilizando a linguagem SQL
 
 Descrição do exercício:
 
