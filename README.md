@@ -1,6 +1,6 @@
 # Checando movimentações bancárias utilizando a linguagem SQL
 
-![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/sql_movimentacoes_bancarias/main/capa.jpg)
+<img  src="https://raw.githubusercontent.com/Campos-Silva/sql_movimentacoes_bancarias/main/capa.jpg" width="400" alt="cognitiveclass.ai logo" align="center" /> 
 
 ## Descrição do exercício:
 
