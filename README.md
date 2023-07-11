@@ -1,4 +1,4 @@
-![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/analise_de_vendas_de_uma_rede_de_supermercados/main/dashboard_topo.png)
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/sql_movimentacoes_bancarias/main/capa.jpg)
 
 # Checando movimentações bancárias utilizando a linguagem SQL
 
