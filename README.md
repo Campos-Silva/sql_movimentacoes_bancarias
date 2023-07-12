@@ -19,22 +19,27 @@ Para a construção desse banco de dados utilizei a linguagem SQL por meio da in
 A partir do sistema de busca foi possível observar que há três movimentações realizadas por essa pessoa que está acima do valor de r$100,00 e que são do tipo entrada. Abaixo está um print realizada por meio dessa consulta:
 
 
+ <left>
+<img src="https://raw.githubusercontent.com/Campos-Silva/sql_movimentacoes_bancarias/main/resultado_da_consulta.PNG" width="700" />
+</left>
+
+
 
 ## Observação:
 
- <left>
-<img src="https://raw.githubusercontent.com/Campos-Silva/sql_movimentacoes_bancarias/main/logo_my_sql.PNG" width="400"/>
-</left>
-
 Utilizei a IDE do MySQL para implementar essas análises exploratórias.
 
+ <left>
+<img src="https://raw.githubusercontent.com/Campos-Silva/sql_movimentacoes_bancarias/main/logo_my_sql.PNG" width="300"/>
+</left>
+
 ## Arquivos:
+
+- Clique [aqui](https://github.com/Campos-Silva/sql_movimentacoes_bancarias/blob/main/movimentacoes_bancarias.sql) para visualizar o script dos códigos na linguagem SQL.
 
  <left>
 <img src="https://raw.githubusercontent.com/Campos-Silva/sql_movimentacoes_bancarias/main/logo_data_sql.PNG" width="170" />
 </left>
-
-- Clique [aqui](https://github.com/Campos-Silva/sql_movimentacoes_bancarias/blob/main/movimentacoes_bancarias.sql) para visualizar o script dos códigos na linguagem SQL.
 
 ## Autor:
 
